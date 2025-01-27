@@ -29,74 +29,48 @@ Un proyecto tiene un tiempo limitado de ejecución, con una fecha de inicio y un
 <style>
   .timeline {
     display: flex;
-    align-items: center;
     justify-content: space-between;
-    width: 100%;
-    margin: 20px 0;
+    align-items: center;
     font-family: Arial, sans-serif;
+    margin: 20px 0;
   }
 
-  .timeline .segment {
-    flex-grow: 1;
-    height: 4px;
-    background-color: #3498db;
-    margin: 0 5px;
+  .timeline .phase {
+    text-align: center;
     position: relative;
+    width: 100%;
   }
 
-  .timeline .segment:first-child {
-    margin-left: 0;
-  }
-
-  .timeline .segment:last-child {
-    margin-right: 0;
+  .timeline .phase::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background-color: #aaa;
+    z-index: 1;
   }
 
   .timeline .label {
-    position: absolute;
-    top: -20px;
-    font-size: 12px;
-    color: #2c3e50;
-  }
-
-  .start::after,
-  .end::after {
-    content: '';
-    position: absolute;
-    bottom: -5px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 10px;
-    height: 10px;
-    background-color: #3498db;
-    border-radius: 50%;
-  }
-
-  .start {
-    left: 0;
-  }
-
-  .middle {
-    left: 50%;
-    transform: translateX(-50%);
-  }
-
-  .end {
-    right: 0;
+    background-color: white;
+    z-index: 2;
+    padding: 0 10px;
   }
 </style>
 
 <div class="timeline">
-  <div class="segment start">
+  <div class="phase">
     <span class="label">Inicio</span>
   </div>
-  <div class="segment middle">
+  <div class="phase">
     <span class="label">Ejecución</span>
   </div>
-  <div class="segment end">
+  <div class="phase">
     <span class="label">Fin</span>
   </div>
 </div>
+
 
 ---
 
