@@ -26,13 +26,16 @@ Todo proyecto debe comenzar con un propósito bien definido. Este objetivo respo
 #### **2. Temporalidad**  
 Un proyecto tiene un tiempo limitado de ejecución, con una fecha de inicio y una fecha de finalización. Esto obliga a establecer plazos y cumplirlos, evitando que el esfuerzo se prolongue indefinidamente.  
 
+
 <div class="timeline">
   <div class="segment start">
     <span class="label">Inicio</span>
   </div>
+  <div class="line"></div>
   <div class="segment middle">
     <span class="label">Ejecución</span>
   </div>
+  <div class="line"></div>
   <div class="segment end">
     <span class="label">Fin</span>
   </div>
@@ -49,52 +52,37 @@ Un proyecto tiene un tiempo limitado de ejecución, con una fecha de inicio y un
   }
 
   .timeline .segment {
+    position: relative;
+    text-align: center;
+    flex: 0 0 auto;
+  }
+
+  .timeline .line {
     flex-grow: 1;
     height: 4px;
     background-color: #3498db;
-    margin: 0 5px;
-    position: relative;
-  }
-
-  .timeline .segment:first-child {
-    margin-left: 0;
-  }
-
-  .timeline .segment:last-child {
-    margin-right: 0;
   }
 
   .timeline .label {
-    position: absolute;
-    top: -20px;
-    font-size: 12px;
+    position: relative;
+    top: -10px;
+    font-size: 14px;
     color: #2c3e50;
   }
 
   .start::after,
-  .end::after {
+  .end::after,
+  .middle::after {
     content: '';
     position: absolute;
-    bottom: -5px;
+    bottom: -6px;
     left: 50%;
     transform: translateX(-50%);
-    width: 10px;
-    height: 10px;
+    width: 12px;
+    height: 12px;
     background-color: #3498db;
     border-radius: 50%;
-  }
-
-  .start {
-    left: 0;
-  }
-
-  .middle {
-    left: 50%;
-    transform: translateX(-50%);
-  }
-
-  .end {
-    right: 0;
+    z-index: 1;
   }
 </style>
 
