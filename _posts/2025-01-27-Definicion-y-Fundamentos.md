@@ -26,10 +26,77 @@ Todo proyecto debe comenzar con un propósito bien definido. Este objetivo respo
 #### **2. Temporalidad**  
 Un proyecto tiene un tiempo limitado de ejecución, con una fecha de inicio y una fecha de finalización. Esto obliga a establecer plazos y cumplirlos, evitando que el esfuerzo se prolongue indefinidamente.  
 
+<style>
+  .timeline {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+  }
 
-```
-|----Inicio----|-------------Ejecución-------------|----Fin----|  
-```
+  .timeline .segment {
+    flex-grow: 1;
+    height: 4px;
+    background-color: #3498db;
+    margin: 0 5px;
+    position: relative;
+  }
+
+  .timeline .segment:first-child {
+    margin-left: 0;
+  }
+
+  .timeline .segment:last-child {
+    margin-right: 0;
+  }
+
+  .timeline .label {
+    position: absolute;
+    top: -20px;
+    font-size: 12px;
+    color: #2c3e50;
+  }
+
+  .start::after,
+  .end::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 10px;
+    height: 10px;
+    background-color: #3498db;
+    border-radius: 50%;
+  }
+
+  .start {
+    left: 0;
+  }
+
+  .middle {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .end {
+    right: 0;
+  }
+</style>
+
+<div class="timeline">
+  <div class="segment start">
+    <span class="label">Inicio</span>
+  </div>
+  <div class="segment middle">
+    <span class="label">Ejecución</span>
+  </div>
+  <div class="segment end">
+    <span class="label">Fin</span>
+  </div>
+</div>
 
 ---
 
