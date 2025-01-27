@@ -27,65 +27,49 @@ Todo proyecto debe comenzar con un propósito bien definido. Este objetivo respo
 Un proyecto tiene un tiempo limitado de ejecución, con una fecha de inicio y una fecha de finalización. Esto obliga a establecer plazos y cumplirlos, evitando que el esfuerzo se prolongue indefinidamente.  
 
 
-<div class="timeline">
-  <div class="segment start">
-    <span class="label">Inicio</span>
+<div class="flow-diagram">
+  <div class="box">
+    <span>Inicio</span>
   </div>
-  <div class="line"></div>
-  <div class="segment middle">
-    <span class="label">Ejecución</span>
+  <div class="arrow">→</div>
+  <div class="box">
+    <span>Ejecución</span>
   </div>
-  <div class="line"></div>
-  <div class="segment end">
-    <span class="label">Fin</span>
+  <div class="arrow">→</div>
+  <div class="box">
+    <span>Fin</span>
   </div>
 </div>
 
 <style>
-  .timeline {
+  .flow-diagram {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    width: 100%;
+    justify-content: center;
     margin: 20px 0;
-    font-family: Arial, sans-serif;
   }
 
-  .timeline .segment {
-    position: relative;
-    text-align: center;
-    flex: 0 0 auto;
-  }
-
-  .timeline .line {
-    flex-grow: 1;
-    height: 4px;
+  .box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 60px;
     background-color: #3498db;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    text-align: center;
   }
 
-  .timeline .label {
-    position: relative;
-    top: -10px;
-    font-size: 14px;
+  .arrow {
+    margin: 0 10px;
+    font-size: 24px;
+    font-weight: bold;
     color: #2c3e50;
   }
-
-  .start::after,
-  .end::after,
-  .middle::after {
-    content: '';
-    position: absolute;
-    bottom: -6px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 12px;
-    height: 12px;
-    background-color: #3498db;
-    border-radius: 50%;
-    z-index: 1;
-  }
 </style>
-
 ---
 
 #### **3. Recursos**  
