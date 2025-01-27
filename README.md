@@ -1,7 +1,7 @@
 # Administración de Proyectos de Software  
 
 ## **Unidad 1: Introducción a la Administración de Proyectos**  
-- **Definición y elementos fundamentales de un proyecto.**  
+- [**Definición y elementos fundamentales de un proyecto.**](_posts/Definicion-y-Fundamentos.md)  
 - **Ciclo de vida del proyecto:** iniciación, planificación, ejecución, monitoreo y cierre.  
 - **Principios del PMI y su relación con el PMBOK** (versión 7).  
 - **Integración de teoría y práctica:** estudio de casos reales en proyectos predictivos.  
