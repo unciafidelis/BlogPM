@@ -112,9 +112,27 @@ El desarrollo de un proyecto puede dividirse en etapas:
 
 **Gráfico Representativo:**  
 
-```plaintext
-Iniciación → Planificación → Ejecución → Monitoreo → Cierre  
-```
+<div class="flow-diagram">
+  <div class="box">
+    <span>Iniciación</span>
+  </div>
+  <div class="arrow">→</div>
+  <div class="box">
+    <span>Planificación</span>
+  </div>
+  <div class="arrow">→</div>
+  <div class="box">
+    <span>Ejecución</span>
+  </div>
+  <div class="arrow">→</div>
+  <div class="box">
+    <span>Monitoreo</span>
+  </div>
+  <div class="arrow">→</div>
+  <div class="box">
+    <span>Cierre</span>
+  </div>
+</div>
 
 ---
 
