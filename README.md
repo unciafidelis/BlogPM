@@ -2,7 +2,7 @@
 
 ## **Unidad 1: Introducción a la Administración de Proyectos**  
 - [**Definición y elementos fundamentales de un proyecto.**](_posts/2025-01-27-Definicion-y-Fundamentos.md)  
-- **Introducción al estandar para la dirección de proyectos**
+- [**Introducción al estandar para la dirección de proyectos**](_posts/2025-01-05-Introduccion-direccion-de-proyectos.md)
 - **Sistemas de entrega de valor**
 - **Principios de la dirección de proyectos** 
 - **Estudio y asignación de proyectos**.  
