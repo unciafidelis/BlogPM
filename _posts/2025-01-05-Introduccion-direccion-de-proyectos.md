@@ -5,7 +5,7 @@ date:   2025-02-05 17:30:14 -0500
 categories: Unidad 1
 ---
 
-<link rel="stylesheet" href="./styles.css">
+<link rel="stylesheet" href="[https://github.com/unciafidelis/BlogPM/styles.css">
 <section class="section-one">
   
   <div class="container">
