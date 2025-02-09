@@ -5,7 +5,7 @@ date:   2025-02-05 17:30:14 -0500
 categories: Unidad 1
 ---
 
-<link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="./styles.css">
 <section class="section-one">
   
   <div class="container">
@@ -33,6 +33,7 @@ categories: Unidad 1
     </ul>
     
   </div>
+  </section>
 
   <section>
     <div class="info-box">
@@ -41,5 +42,4 @@ categories: Unidad 1
          <p>El estándar establece un marco de referencia para la gobernanza, los roles y el entorno de los proyectos, asegurando una dirección efectiva orientada a generar valor. Con un enfoque adaptable, ayuda a las organizaciones a lograr sus objetivos estratégicos mediante una gestión eficiente y alineada con las mejores prácticas globales.</p> 
     </div>
 </section>
-  </section>
 
