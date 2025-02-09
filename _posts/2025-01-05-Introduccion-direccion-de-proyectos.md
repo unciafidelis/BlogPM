@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Introducción al estandar para la dirección de proyectos"
+date:   2025-02-05 17:30:14 -0500
+categories: Unidad 1
+---
+
 <link rel="stylesheet" href="/style.css">
 <section class="section-one">
   
