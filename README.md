@@ -2,27 +2,27 @@
 
 ## **Unidad 1: Introducción a la Administración de Proyectos**  
 - [**Definición y elementos fundamentales de un proyecto.**](_posts/2025-01-27-Definicion-y-Fundamentos.md)  
-- [**Introducción al estandar para la dirección de proyectos**](_posts/2025-01-05-Introduccion-direccion-de-proyectos.md)
-- **Sistemas de entrega de valor**
-- **Principios de la dirección de proyectos** 
+- [**Introducción al estandar para la dirección de proyectos.**](_posts/2025-01-05-Introduccion-direccion-de-proyectos.md)
+- **Sistemas de entrega de valor.**
+- **Principios de la dirección de proyectos.** 
 - **Estudio y asignación de proyectos**.  
 
 ---
 
 ## **Unidad 2: Dominios de desempeño**
-- **Dominio de Desempeño de los Interesados**
-- **Dominio de Desempeño del Equipo**
-- **Dominio de Desempeño del Enfoque**
-- **Dominio de Desempeño del Trabajo del Proyecto**
-- **Dominio de Desempeño de la Entrega**
-- **Dominio de Desempeño de la Medición**
-- **Dominio de Desempeño de la Incertidumbre**
+- **Dominio de Desempeño de los Interesados.**
+- **Dominio de Desempeño del Equipo.**
+- **Dominio de Desempeño del Enfoque.**
+- **Dominio de Desempeño del Trabajo del Proyecto.**
+- **Dominio de Desempeño de la Entrega.**
+- **Dominio de Desempeño de la Medición.**
+- **Dominio de Desempeño de la Incertidumbre.**
 ---
 
 ## **Unidad 3: Adaptación**  
 - **¿Por qué adaptar?:** fases y artefactos principales.
-- **El Proceso de Adaptación**
-- **Adaptación de los Dominios de Desempeño**
+- **El Proceso de Adaptación.**
+- **Adaptación de los Dominios de Desempeño.**
 - **Gestión del alcance, tiempo, costo y calidad.**  
 - **Gestión de riesgos y análisis cualitativo/cuantitativo.**
 - **Técnicas de estimación:** Puntos de función, estimación por analogía, y COCOMO.  
@@ -32,12 +32,12 @@
 ---
 
 ## **Unidad 4: Modelos métodos y artefactos**  
-- **Modelos Comúnmente Utilizados**
-- **Modelos Aplicados a Través de los Dominios de Desempeño**
-- **Métodos Comúnmente Utilizados**
-- **Métodos Aplicados a Través de los Dominios de Desempeño**
-- **Artefactos Comúnmente Utilizados**
-- **Artefactos Aplicados a través de los Dominios de Desempeño**
+- **Modelos Comúnmente Utilizados.**
+- **Modelos Aplicados a Través de los Dominios de Desempeño.**
+- **Métodos Comúnmente Utilizados.**
+- **Métodos Aplicados a Través de los Dominios de Desempeño.**
+- **Artefactos Comúnmente Utilizados.**
+- **Artefactos Aplicados a través de los Dominios de Desempeño.**
 ---
 
 ## **Unidad 5: Metodologías Ágiles**  
