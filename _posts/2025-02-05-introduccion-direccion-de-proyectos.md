@@ -5,7 +5,7 @@ date: 2025-02-05
 categories: [gestión, proyectos]
 tags: [introducción, dirección, proyectos]
 ---
-
+<html>
   <section>
     <div class="info-box">
         <span class="material-icons info-icon">info</span>
@@ -13,4 +13,4 @@ tags: [introducción, dirección, proyectos]
          <p>El estándar establece un marco de referencia para la gobernanza, los roles y el entorno de los proyectos, asegurando una dirección efectiva orientada a generar valor. Con un enfoque adaptable, ayuda a las organizaciones a lograr sus objetivos estratégicos mediante una gestión eficiente y alineada con las mejores prácticas globales.</p> 
     </div>
 </section>
-
+</html>
