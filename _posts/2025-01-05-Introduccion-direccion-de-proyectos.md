@@ -5,12 +5,11 @@ date:   2025-02-05 17:30:14 -0500
 categories: Unidad 1
 ---
 
-<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/styles.css">
 <section class="section-one">
   
-  <div class="content">
+  <div class="container">
     <p>El <strong>Estándar para la Dirección de Proyectos</strong> establece los principios fundamentales que guían a los profesionales en la gestión de proyectos. Su propósito es proporcionar una base sólida para comprender la disciplina y su aplicación en diversos sectores, independientemente del enfoque de entrega, ya sea predictivo, híbrido o adaptativo.</p>
-    
     <h2>Estructura del Estándar</h2>
     <p>El estándar se divide en tres secciones principales:</p>
     <ul>
@@ -18,7 +17,6 @@ categories: Unidad 1
       <li><strong>Sección 2:</strong> Un sistema para la entrega de valor</li>
       <li><strong>Sección 3:</strong> Principios de la Dirección de Proyectos</li>
     </ul>
-    
     <h2>Conceptos Clave</h2>
     <p>Este estándar define varios términos esenciales que proporcionan contexto a la disciplina:</p>
     <ul>
@@ -34,8 +32,14 @@ categories: Unidad 1
       <li><strong>Valor:</strong> Importancia o utilidad percibida por los diferentes interesados, ya sea a nivel empresarial, social o ambiental.</li>
     </ul>
     
-    <h2 class="post-subtitle">Importancia del Estándar</h2>
-    <p>El estándar establece un marco de referencia para la gobernanza, los roles y el entorno de los proyectos, asegurando una dirección efectiva orientada a generar valor. Con un enfoque adaptable, ayuda a las organizaciones a lograr sus objetivos estratégicos mediante una gestión eficiente y alineada con las mejores prácticas globales.</p>
   </div>
+
+  <section>
+    <div class="info-box">
+        <span class="material-icons info-icon">info</span>
+        <div class="info-content">
+         <p>El estándar establece un marco de referencia para la gobernanza, los roles y el entorno de los proyectos, asegurando una dirección efectiva orientada a generar valor. Con un enfoque adaptable, ayuda a las organizaciones a lograr sus objetivos estratégicos mediante una gestión eficiente y alineada con las mejores prácticas globales.</p> 
+    </div>
 </section>
+  </section>
 
