@@ -2,7 +2,7 @@
 title: PM Blog
 description: Un blog para la administración de proyectos
 baseurl: "/BlogPM"  # Si tu sitio está en el dominio raíz (ej. https://misitio.com), déjalo vacío
-url: "unciafidelis.github.io"  # Tu dominio principal, por ejemplo, https://misitio.com
+url: "http://unciafidelis.github.io"  # Tu dominio principal, por ejemplo, https://misitio.com
 markdown: kramdown
 
 # Opcional: si quieres que los posts tengan un formato de URL específico
