@@ -66,8 +66,8 @@ body {
 
 section {
     position: relative;
-    width: 80%;
-    height: 80%;
+    width: 90%;
+    height: 90%;
     margin-top:2%;
     margin-bottom:2%;
     margin-left:1%;
@@ -75,7 +75,7 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: left;
-    align-items: center;
+    align-items: left;
     padding: 20px;
 }
 
