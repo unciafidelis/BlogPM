@@ -26,7 +26,7 @@ body {
     transform: translateX(-50%);
     display: flex;
     background-color: rgba(255, 255, 255, 0.8); /* Fondo transparente */
-    width: 100%;
+    width: 80%;
     z-index: 10;
     font-size: small;
     height: 4rem;
@@ -37,7 +37,7 @@ body {
     font-family: Vera, sans-serif;
     display: flex;
     background-color: #0052CC; /* Fondo transparente */
-    width: 100%;
+    width: 80%;
 }
 
 /* Elementos individuales del menú */
@@ -66,8 +66,8 @@ body {
 
 section {
     position: relative;
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     margin-top:2%;
     margin-bottom:2%;
     margin-left:1%;
@@ -144,13 +144,13 @@ li {
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 100%;
+    width: 80%;
     height: 11rem;
 }
 
 .section-one .image-container img {
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     object-fit: cover;
     background: #ffffff;
 }
@@ -176,13 +176,13 @@ li {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 80%;
     height: 6rem;
 }
 
 .section-three .image-container img {
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     object-fit: cover;
 }
 
@@ -204,8 +204,8 @@ li {
 }
 
 iframe {
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     border: none;
     display: none; /* El iframe está oculto inicialmente */
 }
@@ -224,8 +224,8 @@ iframe {
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     transform: translate(-50%, -50%) scale(1.45); /* Ajusta el video al centro */
     border: none; /* Elimina los bordes del iframe */
 }
@@ -346,7 +346,7 @@ iframe {
   }
 
   textarea {
-    width: 100%;
+    width: 80%;
     height: 200px;
     font-family: Vera, monospace;
     font-size: 16px;
@@ -515,8 +515,8 @@ iframe {
     margin-top: 5rem; /* Space for fixed tabs */
     padding: 1rem;
     background-color: #ffffff;
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     max-width: 30rem;
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
