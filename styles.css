@@ -18,6 +18,12 @@ body {
     overflow-x: hidden;
     display: block;
 }
+main {
+    margin: 0;
+    font-family: Vera, sans-serif;
+    overflow-x: hidden;
+    display: block;
+}
 
 .nav-container {
     position: fixed;
