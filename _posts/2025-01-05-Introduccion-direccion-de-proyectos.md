@@ -5,9 +5,7 @@ date:   2025-02-05 17:30:14 -0500
 categories: Unidad 1
 ---
 
-<link rel="stylesheet" href="[https://github.com/unciafidelis/BlogPM/styles.css">
-<section class="section-one">
-  
+<section class="section-one"> 
   <div class="container">
     <p>El <strong>Estándar para la Dirección de Proyectos</strong> establece los principios fundamentales que guían a los profesionales en la gestión de proyectos. Su propósito es proporcionar una base sólida para comprender la disciplina y su aplicación en diversos sectores, independientemente del enfoque de entrega, ya sea predictivo, híbrido o adaptativo.</p>
     <h2>Estructura del Estándar</h2>
