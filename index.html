@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h2>Bienvenidos a mi Blog</h2>
+
+<div class="post-container">
+    {% for post in site.posts %}
+        <div class="post-card">
+            <h2><a target="_blank" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            <p>{{ post.date | date: "%B %d, %Y" }}</p>
+        </div>
+    {% endfor %}
+</div>
