@@ -9,7 +9,7 @@ tags: [introducción, dirección, proyectos]
 <h1>Introducción a la Dirección de Proyectos</h1>
 <p>El <strong>Estándar para la Dirección de Proyectos</strong> establece los principios fundamentales que guían a los profesionales en la gestión de proyectos. Su propósito es proporcionar una base sólida para comprender la disciplina y su aplicación en diversos sectores, independientemente del enfoque de entrega, ya sea predictivo, híbrido o adaptativo.</p>
    
-<h2>Estructura del Estándar</h2>
+<h3>Estructura del Estándar</h3>
 <p>El estándar se divide en tres secciones principales:</p>
   <ul>
     <li><strong>Sección 1:</strong> Introducción</li>
@@ -17,7 +17,7 @@ tags: [introducción, dirección, proyectos]
     <li><strong>Sección 3:</strong> Principios de la Dirección de Proyectos</li>
   </ul>
     
-<h2>Conceptos Clave</h2>
+<h3>Conceptos Clave</h3>
 <p>Este estándar define varios términos esenciales que proporcionan contexto a la disciplina:</p>
   <ul>
     <li><strong>Resultado:</strong> Consecuencia final de un proyecto, enfocada en los beneficios y el valor generado.</li>
