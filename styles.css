@@ -19,6 +19,10 @@ body {
     display: block;
 }
 
+footer {
+    margin-left:2%;
+}
+
 .nav-container {
     position: fixed;
     top: 0;
