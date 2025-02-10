@@ -32,12 +32,11 @@ tags: [introducción, dirección, proyectos]
     <li><strong>Valor:</strong> Importancia o utilidad percibida por los diferentes interesados, ya sea a nivel empresarial, social o ambiental.</li>
   </ul>
 
-<div class="container">
   <div class="info-box">
     <span class="material-icons info-icon">info</span>
       <div class="info-content">
         <p>El estándar establece un marco de referencia para la gobernanza, los roles y el entorno de los proyectos, asegurando una dirección efectiva orientada a generar valor. Con un enfoque adaptable, ayuda a las organizaciones a lograr sus objetivos estratégicos mediante una gestión eficiente y alineada con las mejores prácticas globales.</p> 
       </div>
   </div>
-</div>
+
 
