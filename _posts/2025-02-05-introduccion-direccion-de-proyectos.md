@@ -2,8 +2,8 @@
 layout: post
 title: "Introducción a la Dirección de Proyectos"
 date: 2025-02-05
-categories: [gestión, proyectos]
-tags: [introducción, dirección, proyectos]
+categories: [Unidad 1]
+tags: [dirección, proyectos]
 ---
 
 <h1>Introducción a la Dirección de Proyectos</h1>

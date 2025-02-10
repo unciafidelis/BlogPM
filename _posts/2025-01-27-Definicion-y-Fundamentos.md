@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Definición y Elementos Fundamentales de un Proyecto"
-date:   2025-01-27 17:30:14 -0500
-categories: Unidad 1
+date: 2025-02-05
+categories: [Unidad 1]
+tags: [proyectos]
 ---
 
-### **¿Qué es un proyecto?**  
+<h1>¿Qué es un proyecto?</h1>  
 
 Un proyecto es un esfuerzo temporal realizado para crear un producto, servicio o resultado único. Este esfuerzo se caracteriza por tener un **inicio** y un **fin** definidos, lo que lo diferencia de las operaciones continuas. Su propósito puede variar, desde la construcción de un edificio hasta el desarrollo de un software o la implementación de un nuevo proceso empresarial.  
 
